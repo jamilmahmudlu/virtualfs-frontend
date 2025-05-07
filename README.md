@@ -35,4 +35,4 @@ Both components support search, sort, and filter functionality
 
 Deployment
 For deploying to production, I built the project using npm run build
-Deployed the static files to Google Cloud Storage which serves the frontend
+I face problem when i send static files to Google Cloud Storage, but i deploy project to another tool of gcp - firebase.
